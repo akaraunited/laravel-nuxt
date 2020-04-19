@@ -16,7 +16,7 @@
 	    </v-form>
 	 </v-card-text>
 	 <v-card-action>
-	    <v-btn class="ma-10">Change Password</v-btn>
+	    <v-btn rounded color="primary" class="ma-10">Change Password</v-btn>
 	 </v-card-action>
       </v-card>
    </v-app>

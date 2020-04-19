@@ -28,7 +28,7 @@
 	    </v-form>
 	 </v-card-text>
 	 <v-card-action>
-	    <v-btn class="ma-10">Sign Up</v-btn>
+	    <v-btn rounded color="primary" class="ma-10">Sign Up</v-btn>
 	 </v-card-action>
       </v-card>
    </v-app>
