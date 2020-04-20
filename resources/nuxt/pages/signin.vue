@@ -18,7 +18,7 @@
 	 <v-card-action>
 	    <v-btn rounded color="primary" class="ma-10">Sign In</v-btn>
 		<p>
-		<span class="pl-10">Forget your password?</span>
+		<span class="pl-10"><a href="#">Forget your password?</a></span>
 		<span class="pl-10">Don't have an account? <a href="#">Sign Up!</a></span>
 		</p>
 	 </v-card-action>
